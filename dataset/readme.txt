@@ -1,1 +1,1 @@
-Download the dataset from the url on the README segment on github, then copy paste it into the working directory. 
+Download the dataset folder from the url on the README segment on github, then replace this folder with the newly downloaded dataset folder.
