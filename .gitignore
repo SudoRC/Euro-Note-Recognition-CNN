@@ -1,0 +1,57 @@
+# MATLAB specific
+*.asv
+*.mex*
+*.p
+*.mat
+*.fig
+*.mdl
+*.mdlp
+*.slx
+*.slxp
+*.slddc
+
+# Simulink code generation
+slprj/
+rtw/
+_ert_rtw/
+slprj/
+
+# Stateflow auto-generated files
+sfprj/
+
+# MATLAB cache
+*.mexa64
+*.mexmaci64
+*.mexw64
+*.mexa32
+*.mexmaci32
+*.mexw32
+
+# Simulink autosave
+*.autosave
+
+# MATLAB preferences and history
+matlabprefs.mat
+history.m
+
+# Other
+*.jks
+*.pdf
+*.bak
+*.tmp
+*.exp
+*.sch
+
+# Temporary files created by MATLAB
+*.~*
+*_mcr.*
+*~
+
+# Logs and diagnostics
+*.log
+*.wlog
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
